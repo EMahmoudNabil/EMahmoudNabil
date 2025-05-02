@@ -14,7 +14,7 @@
 - 🌱 Currently exploring advanced features in **.NET Core** and **Angular**.
 - 💬 Ask me about **C#**, **.NET Core**, **SQL**, or anything related to Full Stack Development.
 - ⚡ Fun Fact: I enjoy debugging more than writing new code because it feels like solving puzzles!
-- 🌐 Check out my portfolio at [MyPortfolio](https://portfolio-whqi-git-main-emahmoudnabil.vercel.app/).
+- 🌐 Check out my portfolio at [MyPortfolio](https://emahmoudnabil.vercel.app/).
 
 ### Connect with Me:
 
