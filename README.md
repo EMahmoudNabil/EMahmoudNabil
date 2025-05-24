@@ -33,7 +33,7 @@
   
 <!-- Profile Views -->
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="50"/>
+      <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="40"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
