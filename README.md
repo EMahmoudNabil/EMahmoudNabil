@@ -8,6 +8,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
   </a>
 </p>
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=00201146285867">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emahmoudnabil/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
+  </a>
+  <a href="https://emahmoudnabil.vercel.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" alt="Website"/>
+  </a>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="40"/>
+</p>
+
+
 
 ## 👨‍💻 About Me
 🎓 I'm a proud graduate of the Information Technology Institute (ITI), where I built a strong foundation in software engineering and full stack development.
@@ -26,22 +44,6 @@
 
 🌐 Explore my work and projects on my [**Portfolio Website**](https://emahmoudnabil.vercel.app/)
 
-<p align="center">
-  <a href="https://api.whatsapp.com/send?phone=00201146285867">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emahmoudnabil/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
-  </a>
-  <a href="https://emahmoudnabil.vercel.app/">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" alt="Website"/>
-  </a>
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="40"/>
-</p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
