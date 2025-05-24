@@ -15,7 +15,6 @@
       <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="23"/>
   </p>
 
-    <!-- WhatsApp Channel & LinkedIn -->
   <p align="center">
     <a href="https://api.whatsapp.com/send?phone=00201146285867">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
