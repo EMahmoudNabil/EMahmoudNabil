@@ -35,15 +35,11 @@
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=ts,angular,react,nextjs,nodejs,express,mongodb,mysql,swagger"/>
   </p>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,redis,postman,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,git"/>
-  </p>
 
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-nabil&theme=onestar&row=1&column=7"/>
   </p>
 
   <!-- Languages -->
