@@ -20,20 +20,20 @@
 
   <p align="center">
     <a href="https://api.whatsapp.com/send?phone=00201146285867">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="55"/>
     </a>
     <a href="https://www.linkedin.com/in/emahmoudnabil/">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="55"/>
     </a>
   
 <a href="https://emahmoudnabil.vercel.app/">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" alt="Website"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="55" alt="Website"/>
     </a>
   </p>
   
 <!-- Profile Views -->
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="40"/>
+      <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="30"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
