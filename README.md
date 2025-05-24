@@ -29,6 +29,10 @@
   </p>
 
 
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,redis,postman,html,css,js,docker,git"/>
+  </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
