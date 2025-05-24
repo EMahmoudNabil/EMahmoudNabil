@@ -49,10 +49,7 @@
   <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=ts,angular,react,nextjs,nodejs,express,mongodb,mysql,swagger"/>
 </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-nabil&theme=onestar&row=1&column=7"/>
-</p>
+
 
 <!-- Languages -->
 <p align="center">
