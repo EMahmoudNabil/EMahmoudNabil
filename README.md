@@ -27,6 +27,28 @@
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" alt="Website"/>
     </a>
   </p>
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,redis,postman,html,css,js,docker,git"/>
+  </p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+
+  <!-- Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
+  </p>
+
+  <!-- Snake -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
+
+  
 <!-- Typing SVG -->
 <!--<p align="center">-->
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20Developer;C%23%20|%20.NET%20Core%20|%20MVC%20|%20Angular;Always%20learning%20new%20technologies!&font=Fira%20Code&center=true&width=440&height=45&color=00b4d8&vCenter=true&size=22"></a> -->
