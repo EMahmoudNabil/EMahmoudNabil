@@ -15,7 +15,15 @@
       <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="23"/>
   </p>
 
-  
+    <!-- WhatsApp Channel & LinkedIn -->
+  <p align="center">
+    <a href="https://api.whatsapp.com/send?phone=00201146285867">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
+    </a>
+    <a href="https://www.linkedin.com/in/emahmoudnabil/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
+    </a>
+  </p>
 <!-- Typing SVG -->
 <!--<p align="center">-->
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20Developer;C%23%20|%20.NET%20Core%20|%20MVC%20|%20Angular;Always%20learning%20new%20technologies!&font=Fira%20Code&center=true&width=440&height=45&color=00b4d8&vCenter=true&size=22"></a> -->
