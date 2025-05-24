@@ -22,9 +22,10 @@
     <a href="https://www.linkedin.com/in/emahmoudnabil/">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
     </a>
-    <a href="https://emahmoudnabil.vercel.app/">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/svgs/brands/whatsapp.svg" height="60"/>
-  </a>
+  
+<a href="https://emahmoudnabil.vercel.app/">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" alt="Website"/>
+    </a>
   </p>
 <!-- Typing SVG -->
 <!--<p align="center">-->
