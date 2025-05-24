@@ -1,8 +1,9 @@
-
-<h3 align="center">
-  Welcome to Mahmoud Nabil's profile! 
+<h1 align="center">  Welcome to Mahmoud Nabil's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
+
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2><br>
+
 
 <!-- Typing SVG -->
 <p align="center">
