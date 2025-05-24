@@ -28,10 +28,12 @@
     </a>
   </p>
 
+
 <h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,redis,postman,html,css,js,docker,git"/>
-  </p>
+<p align="left">
+  <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,tailwind,dotnet,cs,nodejs,express,mongodb,mysql,postgres,git,docker,postman,swagger,bitbucket" />
+</p
+
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
