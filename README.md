@@ -1,10 +1,17 @@
-<h1 align="center">  Welcome to Mahmoud Nabil's profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">  I'm Mahmoud Nabil
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h1>
 
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2><br>
 
+  <!-- Google Me -->
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
+    </a>
+  </p>
 
+  
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20.NET%20Developer;C%23%20|%20.NET%20Core%20|%20MVC%20|%20Angular;Always%20learning%20new%20technologies!&font=Fira%20Code&center=true&width=440&height=45&color=00b4d8&vCenter=true&size=22"></a>
