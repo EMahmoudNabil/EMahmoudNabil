@@ -5,13 +5,13 @@
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2><br>
 
   <!-- Google Me -->
-  <p align="center">
+  <p align="left">
     <a href="https://www.linkedin.com/in/emahmoudnabil/">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
     </a>
   </p>
 <!-- Profile Views -->
-  <p align="center">
+  <p align="left">
       <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="23"/>
   </p>
 
