@@ -51,11 +51,11 @@
 
 
 
-<!-- Languages -->
+<!-- Languages 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-nabil&layout=compact&langs_count=5&theme=codeSTACKr"/>
 </p>
-
+-->
 <!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
