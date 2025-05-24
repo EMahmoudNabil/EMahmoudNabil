@@ -16,11 +16,7 @@
 - 💬 Ask me about **C#**, **.NET Core**, **SQL**, or anything related to Full Stack Development.
 - ⚡ Fun Fact: I enjoy debugging more than writing new code because it feels like solving puzzles!
 - 🌐 Check out my portfolio at [MyPortfolio](https://emahmoudnabil.vercel.app/).
-  
-<!-- Profile Views -->
-  <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="23"/>
-  </p>
+
 
   <p align="center">
     <a href="https://api.whatsapp.com/send?phone=00201146285867">
@@ -34,7 +30,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="60" alt="Website"/>
     </a>
   </p>
-
+  
+<!-- Profile Views -->
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="50"/>
+  </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
