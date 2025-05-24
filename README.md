@@ -32,7 +32,7 @@
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,redis,postman,html,css,js,docker,git"/>
-  <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nodejs,express,mongodb,mysql"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=ts,angular,react,nextjs,nodejs,express,mongodb,mysql,swagger"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
