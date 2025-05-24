@@ -6,9 +6,13 @@
 
   <!-- Google Me -->
   <p align="center">
-    <a href="https://emahmoudnabil.vercel.app/">
+    <a href="https://www.linkedin.com/in/emahmoudnabil/">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
     </a>
+  </p>
+<!-- Profile Views -->
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="23"/>
   </p>
 
   
