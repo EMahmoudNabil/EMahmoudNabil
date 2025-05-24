@@ -10,6 +10,13 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
     </a>
   </p>
+  <p align="right">
+- 🏢 I'm a Full Stack .NET Developer with a passion for building impactful web applications.
+- 🌱 Currently exploring advanced features in **.NET Core** and **Angular**.
+- 💬 Ask me about **C#**, **.NET Core**, **SQL**, or anything related to Full Stack Development.
+- ⚡ Fun Fact: I enjoy debugging more than writing new code because it feels like solving puzzles!
+- 🌐 Check out my portfolio at [MyPortfolio](https://emahmoudnabil.vercel.app/).
+  </p>
 <!-- Profile Views -->
   <p align="left">
       <img src="https://komarev.com/ghpvc/?username=mahmoud-nabil&color=4010B0" height="23"/>
